@@ -8,10 +8,10 @@ Restart RubyMine and then set your color scheme by going to File -> Settings -> 
 Testimonials
 ----------------
 
-"I'm not a dark background guy, but if I were, I'd use this."
+"I'm not a dark background guy, but if I were, I'd use this."  
 -Adam M.
 
-"Hey what's that theme?"
+"Hey what's that theme?"  
 -David S.
 
 Enjoy!
