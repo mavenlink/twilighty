@@ -11,5 +11,8 @@ Testimonials
 "I'm not a dark background guy, but if I were, I'd use this."
 -Adam M.
 
+"Hey what's that theme?"
+-David S.
+
 Enjoy!
 
